@@ -9,7 +9,7 @@
 <body>
     <header>
         <h1>Dr M VAMSHI KRISHNA</h1>
-        <p>Professor | profvamshi@email.com | 9703818580</p>
+        <p>Professor | profvamshi@Gmail.com | 9703818580</p>
     </header>
     <section id="about">
         <h2>About Me</h2>
@@ -38,7 +38,7 @@
         </ul>
     </section>
     <footer>
-        <p>Find me on <a href="https://github.com/username">GitHub</a></p>
+        <p>Find me on <a href="https://github.com/vamshi5151">GitHub</a></p>
     </footer>
     <script src="script.js"></script>
 </body>

@@ -8,8 +8,8 @@
 </head>
 <body>
     <header>
-        <h1>John Doe</h1>
-        <p>Web Developer | john.doe@email.com | (123) 456-7890</p>
+        <h1>JDr M VAMSHI KRISHNA</h1>
+        <p>Professor | profvamshi@email.com | 9703818580</p>
     </header>
     <section id="about">
         <h2>About Me</h2>

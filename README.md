@@ -43,3 +43,8 @@
     <script src="script.js"></script>
 </body>
 </html>
+// Simple alert for interactivity
+document.addEventListener("DOMContentLoaded", function() {
+    console.log("Resume page loaded!");
+    alert("Welcome to my resume website!");
+});

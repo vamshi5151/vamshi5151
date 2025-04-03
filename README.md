@@ -25,13 +25,7 @@
     </section>
     <section id="experience">
         <h2>Experience</h2>
-        <p>ACADEMIC & ADMINISTRATIVE ROLES:
-Incharge of TBI & Dronix
-Professor& HoD in Department of ECE
-Associate Dean, School of Engineering & Technology, Centurion University Odisha.
-Head of the Department for ECE, Centurion University Odisha.
-Associate Dean for Research & Development Member, Centurion University Andhra Pradesh.
-EXPERIENCE:
+        <p>EXPERIENCE:
 11/2007 – 07/2009	Raghu Engineering College 02/2009 -07/2011	WIPRO Technologies 08/2011 – 10/2014	Centurion University 10/2014 – 08/2017	GITAM University 08/2017 – 10/2020	Centurion University
 10/2020- Present	Dhanekula Institute of Engineering and Technology
 </p>

@@ -43,6 +43,42 @@
     <script src="script.js"></script>
 </body>
 </html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+header {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+h1 {
+    margin: 0;
+}
+h2 {
+    color: #333;
+}
+section {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+a {
+    color: #0078d4;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
 // Simple alert for interactivity
 document.addEventListener("DOMContentLoaded", function() {
     console.log("Resume page loaded!");
